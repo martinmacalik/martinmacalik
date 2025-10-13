@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jakub Pluháček and I'm a software developer, from Zlin.</h2>
+<h2 align="left">Hi 👋! My name is Martin Máčalík and I'm a software developer, from Zlin.</h2>
 
 ###
 
