@@ -86,9 +86,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a259ff&icon_color=6e40c9&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=martinmacalik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a259ff&icon_color=6e40c9&text_color=c9d1d9" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a259ff&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinmacalik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a259ff&text_color=c9d1d9" height="165"/>
 </div>
 
 ---
